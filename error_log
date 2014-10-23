@@ -1,0 +1,40 @@
+[01-Jul-2014 16:17:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/milesyou/public_html/tambah_lokasi.php on line 346
+[01-Jul-2014 16:18:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/milesyou/public_html/tambah_lokasi.php on line 357
+[01-Jul-2014 16:18:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/milesyou/public_html/tambah_lokasi.php on line 357
+[01-Jul-2014 16:19:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/milesyou/public_html/tambah_lokasi.php on line 357
+[02-Jul-2014 17:05:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/milesyou/public_html/tambah_lokasi.php on line 6
+[02-Jul-2014 17:05:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/milesyou/public_html/tambah_lokasi.php on line 6
+[02-Jul-2014 17:48:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/milesyou/public_html/tambah_lokasi.php on line 6
+[07-Jul-2014 21:51:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 601
+[07-Jul-2014 21:52:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 601
+[07-Jul-2014 21:52:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 601
+[07-Jul-2014 21:52:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 601
+[07-Jul-2014 21:53:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 601
+[07-Jul-2014 21:54:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/milesyou/public_html/tambah_lokasi.php on line 547
+[11-Jul-2014 10:09:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 143
+[11-Jul-2014 10:10:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/milesyou/public_html/tambah_lokasi.php on line 143
+[11-Jul-2014 10:10:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/milesyou/public_html/tambah_lokasi.php on line 143
+[11-Jul-2014 10:10:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/milesyou/public_html/tambah_lokasi.php on line 143
+[14-Jul-2014 14:05:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 471
+[14-Jul-2014 14:05:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 471
+[14-Jul-2014 14:05:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 471
+[14-Jul-2014 16:17:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 185
+[14-Jul-2014 16:23:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 185
+[21-Jul-2014 16:21:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/milesyou/public_html/tambah_lokasi.php on line 715
+[01-Aug-2014 16:34:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/milesyou/public_html/tambah_lokasi.php on line 813
+[04-Aug-2014 16:53:51 Asia/Jakarta] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/milesyou/public_html/domi_panel.php:100) in /home/milesyou/public_html/tambah_lokasi.php on line 2
+[04-Aug-2014 16:53:51 Asia/Jakarta] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/milesyou/public_html/domi_panel.php:100) in /home/milesyou/public_html/tambah_lokasi.php on line 2
+[04-Aug-2014 16:53:51 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/milesyou/public_html/domi_panel.php:100) in /home/milesyou/public_html/tambah_lokasi.php on line 937
+[04-Aug-2014 16:54:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/milesyou/public_html/domi_panel.php:100) in /home/milesyou/public_html/tambah_lokasi.php on line 941
+[04-Aug-2014 16:56:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/milesyou/public_html/tambah_lokasi.php on line 6
+[21-Aug-2014 23:34:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/milesyou/public_html/proses.php on line 14
+[21-Aug-2014 23:34:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/milesyou/public_html/proses.php on line 14
+[18-Sep-2014 12:14:11 Asia/Jakarta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/milesyou/public_html/logout.php on line 3
+[18-Sep-2014 12:14:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/milesyou/public_html/logout.php:3) in /home/milesyou/public_html/logout.php on line 4
+[18-Sep-2014 12:14:36 Asia/Jakarta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/milesyou/public_html/logout.php on line 3
+[18-Sep-2014 12:14:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/milesyou/public_html/logout.php:3) in /home/milesyou/public_html/logout.php on line 4
+[18-Sep-2014 12:14:40 Asia/Jakarta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/milesyou/public_html/logout.php on line 3
+[18-Sep-2014 12:14:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/milesyou/public_html/logout.php:3) in /home/milesyou/public_html/logout.php on line 4
+[18-Sep-2014 12:15:33 Asia/Jakarta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/milesyou/public_html/logout.php on line 3
+[18-Sep-2014 12:15:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/milesyou/public_html/logout.php:3) in /home/milesyou/public_html/logout.php on line 4
+[18-Sep-2014 12:16:02 Asia/Jakarta] PHP Fatal error:  Call to undefined function redirect() in /home/milesyou/public_html/logout.php on line 2

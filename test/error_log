@@ -1,0 +1,19 @@
+[11-Aug-2014 14:07:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/milesyou/public_html/test/post.php on line 2
+[11-Aug-2014 14:11:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/milesyou/public_html/test/post.php on line 2
+[11-Aug-2014 14:14:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/milesyou/public_html/test/post.php on line 12
+[11-Aug-2014 14:32:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/milesyou/public_html/test/path.php on line 2
+[11-Aug-2014 14:34:22 Asia/Jakarta] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/milesyou/public_html/test/path.php on line 21
+[11-Aug-2014 14:35:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/milesyou/public_html/test/path.php on line 21
+[11-Aug-2014 14:35:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/milesyou/public_html/test/path.php on line 21
+[11-Aug-2014 14:36:28 Asia/Jakarta] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/milesyou/public_html/test/path.php on line 21
+[11-Aug-2014 17:13:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/milesyou/public_html/test/path.php on line 2
+[11-Aug-2014 17:14:48 Asia/Jakarta] PHP Warning:  curl_exec() expects parameter 1 to be resource, string given in /home/milesyou/public_html/test/path.php on line 9
+[12-Aug-2014 11:03:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/milesyou/public_html/test/get.php on line 8
+[12-Aug-2014 11:04:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/milesyou/public_html/test/get.php on line 8
+[12-Aug-2014 11:04:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/milesyou/public_html/test/get.php on line 8
+[12-Aug-2014 11:26:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected $end in /home/milesyou/public_html/test/path.php on line 21
+[12-Aug-2014 11:39:44 Asia/Jakarta] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/milesyou/public_html/test/path.php on line 15
+[12-Aug-2014 11:40:05 Asia/Jakarta] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/milesyou/public_html/test/path.php on line 15
+[12-Aug-2014 11:40:10 Asia/Jakarta] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/milesyou/public_html/test/path.php on line 15
+[12-Aug-2014 12:08:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '{' in /home/milesyou/public_html/test/post.php on line 10
+[12-Aug-2014 12:12:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/milesyou/public_html/test/post.php on line 10
